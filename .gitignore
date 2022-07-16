@@ -1,0 +1,6 @@
+# ignora archivos que terminan en .env
+*.env
+# ignora la carpeta tareas y todo su contenido
+tareas
+
+
